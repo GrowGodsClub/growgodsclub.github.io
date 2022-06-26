@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xca0AD6C90f898683595676191dE62A11c5d032cE",
+  "SCAN_LINK": "https://etherscan.io/address/0xca0AD6C90f898683595676191dE62A11c5d032cE",
+  "NETWORK": {
+    "NAME": "Etherscan",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Grow Gods Club NFT",
+  "SYMBOL": "GGC",
+  "MAX_SUPPLY": 300,
+  "WEI_COST": 200000000000000000,
+  "DISPLAY_COST": 0.2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/grow-gods-club-nft-collection",
+  "SHOW_BACKGROUND": true
+}
